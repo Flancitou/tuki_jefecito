@@ -1,7 +1,7 @@
 const yesBtn = document.querySelector('#yesBtn');
 
 yesBtn.addEventListener('click',function () {
-    alert('Si me decías que no le decía  Feliipe');
+    alert('Si me decías que no le decía a Feliipe');
 });
 
 const noBtn = document.querySelector('#noBtn');
